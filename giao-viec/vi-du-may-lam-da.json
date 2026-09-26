@@ -1,0 +1,348 @@
+{
+  "video_title": "Máy làm đá viên mini",
+  "total_seconds": 18,
+  "resolution": "720p",
+  "bible": {
+    "character": "The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails.",
+    "character_2": "",
+    "hands": "Her hands have short unpainted nails.",
+    "hands_2": "",
+    "product": "The ice maker is a matte-black countertop box, kettle-sized, with a clear lid and a small black button panel, shown from the front with the lid closed.",
+    "product_open": "The open ice maker shows metal ice prongs above a removable ice basket under its raised clear lid, shown from the front.",
+    "product_parts": {},
+    "props": {
+      "counter": "The counter is white quartz.",
+      "tall_glass": "The tall glass is two-thirds full of amber kumquat tea with two halved kumquats.",
+      "ice_scoop": "The ice scoop is white plastic with a short handle.",
+      "ice_cubes": "The ice cubes are clear and bullet-shaped.",
+      "water_jug": "The water jug is clear glass with a short spout, partly filled with clear water."
+    },
+    "setting": "The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls.",
+    "setting_close": "The background is softly blurred light-wood cabinets and white walls.",
+    "lighting_day": "Soft late-morning daylight falls evenly from a window behind the camera.",
+    "lighting_night": "",
+    "style": "Photorealistic vertical 9:16 smartphone video, sharp focus, realistic textures.",
+    "ambience": "Quiet apartment room tone with faint street traffic outside."
+  },
+  "selling_points": [
+    {
+      "point": "Nhỏ gọn, để bàn",
+      "shots": [
+        2,
+        6
+      ],
+      "shown_by": [
+        "visual",
+        "voiceover"
+      ]
+    },
+    {
+      "point": "Chỉ cần đổ nước",
+      "shots": [
+        2,
+        3
+      ],
+      "shown_by": [
+        "visual",
+        "voiceover"
+      ]
+    },
+    {
+      "point": "Mẻ đá đầu tiên sau 6 phút",
+      "shots": [
+        4
+      ],
+      "shown_by": [
+        "visual",
+        "overlay",
+        "voiceover",
+        "sfx"
+      ]
+    },
+    {
+      "point": "Có giỏ đá và muỗng xúc",
+      "shots": [
+        5
+      ],
+      "shown_by": [
+        "visual"
+      ]
+    },
+    {
+      "point": "Kêu gọi mua ngay",
+      "shots": [
+        6
+      ],
+      "shown_by": [
+        "overlay",
+        "voiceover"
+      ]
+    }
+  ],
+  "dropped_points": [
+    "Uống một ngụm: thay bằng nâng ly và cười, vì cảnh uống cận dễ lỗi.",
+    "Thở dài: thay bằng lắc đầu, vì hai nhịp trong một clip 4 giây dễ lỗi."
+  ],
+  "shots": [
+    {
+      "shot_number": 1,
+      "purpose": "hook",
+      "transition": "cut",
+      "lighting": "day",
+      "duration_seconds": 4,
+      "trim_start_seconds": 1,
+      "use_seconds": 3,
+      "shot_size": "medium close-up",
+      "camera": "slightly high angle, static camera",
+      "script_line": "Trời nóng, cô gái mở tủ lạnh thì không còn đá, thở dài.",
+      "start_state": "Pose: standing at center in front of the open freezer door, facing the camera, small frown | Right hand: holding the frame-left edge of a white freezer tray at chest height | Left hand: holding the frame-right edge of the white freezer tray | Product: not in frame | Props: white freezer tray with dry, bare compartments facing the camera, stainless-steel fridge behind her | Gaze: down at the white freezer tray",
+      "action": "She slowly shakes her head once.",
+      "end_state": "Pose: standing at center in front of the open freezer door, facing the camera, small frown | Right hand: holding the frame-left edge of a white freezer tray at chest height | Left hand: holding the frame-right edge of the white freezer tray | Product: not in frame | Props: white freezer tray with dry, bare compartments facing the camera, stainless-steel fridge behind her | Gaze: down at the white freezer tray",
+      "images_to_attach": [
+        "character",
+        "setting"
+      ],
+      "keyframe_prompt": "Vertical 9:16 photorealistic photo, medium close-up at a slightly high angle. The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails. She stands alone at center in front of the open freezer door of a stainless-steel fridge, facing the camera with a small frown, holding a white freezer tray at chest height in both hands, its dry, bare compartments facing the camera, looking down at the white freezer tray. Her head sits below the upper third of the frame. The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. The composition leaves clean empty space in the upper third of the frame. Use the attached character image as the woman. Use the attached setting image as the room.",
+      "veo_prompt": "Single continuous shot, medium close-up, slightly high angle, static camera. The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails. She is alone. For the first second, she holds still at center in front of the open freezer door of a stainless-steel fridge, facing the camera with a small frown, holding a white freezer tray at chest height in both hands, its dry, bare compartments facing the camera, looking down at the white freezer tray. Over the next two seconds, she slowly shakes her head once. For the final second, she holds completely still, lips gently closed. Her head sits below the upper third of the frame. The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. Photorealistic vertical 9:16 smartphone video, sharp focus, realistic textures. The composition leaves clean empty space in the upper third of the frame. Audio: Quiet apartment room tone with faint street traffic outside.",
+      "negative_prompt": "subtitles, captions, on-screen text, watermark, talking, speech, singing, music, extra people, cuts, split screen, extra fingers, distorted hands, deformed product, duplicate product, ice maker, ice cubes",
+      "voiceover_vi": "Trời nóng mà hết đá?",
+      "overlay_text_vi": "Hết đá giữa trời nóng?",
+      "sfx_edit": "",
+      "needs_real_footage": false,
+      "note": "Tiếng thở dài thay bằng lắc đầu (hai nhịp trong một clip 4 giây dễ lỗi); vẻ mặt nhăn có sẵn từ đầu. Khay đá trống quay về máy quay ngay khung đầu để hook thấy vấn đề ngay.",
+      "self_check": {
+        "state_diffs_vs_prev": [],
+        "visible_but_not_in_prompt": [],
+        "banned_words_found": [],
+        "veo_word_count": 175,
+        "phases_sum_ok": true,
+        "acting_hand_ok": true,
+        "risky_action_min_6s": "n/a",
+        "feature_visible": []
+      }
+    },
+    {
+      "shot_number": 2,
+      "purpose": "solution",
+      "transition": "cut",
+      "lighting": "day",
+      "duration_seconds": 6,
+      "trim_start_seconds": 1,
+      "use_seconds": 3,
+      "shot_size": "medium shot",
+      "camera": "eye level, static camera",
+      "script_line": "Cô đổ nước vào máy làm đá mini.",
+      "start_state": "Pose: standing at center behind the counter, facing the camera | Right hand: resting flat on the counter | Left hand: holding the water jug upright just above the open ice maker | Product: frame-right, lid open, front facing the camera | Props: water jug in the left hand, tall glass at frame-left, ice scoop at lower frame-right, counter | Gaze: at the ice maker",
+      "action": "She pours water from the water jug into the ice maker.",
+      "end_state": "Pose: standing at center behind the counter, facing the camera | Right hand: resting flat on the counter | Left hand: holding the water jug upright just above the open ice maker | Product: frame-right, lid open, front facing the camera | Props: water jug in the left hand, tall glass at frame-left, ice scoop at lower frame-right, counter | Gaze: at the ice maker",
+      "images_to_attach": [
+        "product_open",
+        "character",
+        "setting",
+        "keyframe:1"
+      ],
+      "keyframe_prompt": "Vertical 9:16 photorealistic photo, medium shot at eye level. The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails. She stands alone at center behind the counter, facing the camera, her right hand resting flat on the counter and her left hand holding the water jug upright just above the open ice maker, looking at the ice maker. Her hands have short unpainted nails. The open ice maker shows metal ice prongs above a removable ice basket under its raised clear lid, shown from the front. The ice maker stands at frame-right with its clear lid raised and its front facing the camera. The water jug is clear glass with a short spout, partly filled with clear water. The water jug hangs just above the open ice maker in her left hand. The tall glass is two-thirds full of amber kumquat tea with two halved kumquats. The tall glass stands on the counter at frame-left. The ice scoop is white plastic with a short handle. The ice scoop lies on the counter at lower frame-right. The counter is white quartz. The counter runs across the lower third of the frame. The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. Use the attached open-product photo exactly as the ice maker. Use the attached character image as the woman. Use the attached setting image as the room. Match the room, lighting, and the woman's hair and clothing in the attached reference keyframe exactly.",
+      "veo_prompt": "Single continuous shot, medium shot, eye level, static camera. The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails. She is alone. Her hands have short unpainted nails. For the first second, she holds still at center behind the counter, facing the camera, her right hand resting flat on the counter and her left hand holding the water jug upright just above the open ice maker, looking at the ice maker. Over the next three seconds, she slowly tilts the water jug with her left hand, pouring water into the open ice maker at natural speed. For the final two seconds, she holds completely still with the water jug upright, lips gently closed. The open ice maker shows metal ice prongs above a removable ice basket under its raised clear lid, shown from the front. The ice maker stands at frame-right with its clear lid raised and its front facing the camera. The water jug is clear glass with a short spout, partly filled with clear water. The water jug hangs just above the open ice maker in her left hand. The tall glass is two-thirds full of amber kumquat tea with two halved kumquats. The tall glass stands on the counter at frame-left. The ice scoop is white plastic with a short handle. The ice scoop lies on the counter at lower frame-right. The counter is white quartz. The counter runs across the lower third of the frame. The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. Photorealistic vertical 9:16 smartphone video, sharp focus, realistic textures. Audio: Quiet apartment room tone with faint street traffic outside.",
+      "negative_prompt": "subtitles, captions, on-screen text, watermark, talking, speech, singing, music, extra people, cuts, split screen, extra fingers, distorted hands, deformed product, duplicate product, splashes, puddles",
+      "voiceover_vi": "Chỉ cần đổ nước vào máy,",
+      "overlay_text_vi": "",
+      "sfx_edit": "water pouring",
+      "needs_real_footage": false,
+      "note": "Ngoài hình: người từ cửa tủ lạnh sang sau quầy bếp, vì cô đi tới quầy. Ngoài hình: khay đá từ tay cô sang ngoài khung, vì cô cất khay vào tủ lạnh. Ngoài hình: tay phải từ cầm mép khay sang đặt phẳng trên quầy, vì cô cất khay rồi tựa tay lên quầy. Ngoài hình: tay trái từ cầm mép khay sang cầm bình nước, vì cô lấy bình nước trên quầy. Máy ở frame-right (phía tay trái của cô) nên tay trái rót, tay phải nghỉ; nước rót vào không nhìn thấy trong máy nên trạng thái cuối giống trạng thái đầu.",
+      "self_check": {
+        "state_diffs_vs_prev": [
+          "Ngoài hình: người từ cửa tủ lạnh sang sau quầy bếp, vì cô đi tới quầy",
+          "Ngoài hình: khay đá từ tay cô sang ngoài khung, vì cô cất khay vào tủ lạnh",
+          "Ngoài hình: tay phải từ cầm mép khay sang đặt phẳng trên quầy, vì cô cất khay rồi tựa tay lên quầy",
+          "Ngoài hình: tay trái từ cầm mép khay sang cầm bình nước, vì cô lấy bình nước trên quầy"
+        ],
+        "visible_but_not_in_prompt": [],
+        "banned_words_found": [],
+        "veo_word_count": 294,
+        "phases_sum_ok": true,
+        "acting_hand_ok": true,
+        "risky_action_min_6s": true,
+        "feature_visible": [
+          "đổ nước: dòng nước rót từ bình vào máy"
+        ]
+      }
+    },
+    {
+      "shot_number": 3,
+      "purpose": "solution",
+      "transition": "cut",
+      "lighting": "day",
+      "duration_seconds": 4,
+      "trim_start_seconds": 1,
+      "use_seconds": 2,
+      "shot_size": "medium close-up",
+      "camera": "eye level, static camera",
+      "script_line": "Cô đóng nắp máy.",
+      "start_state": "Pose: standing at center behind the counter, facing the camera | Right hand: resting flat on the counter | Left hand: resting on top of the raised clear lid | Product: frame-right, lid open, front facing the camera | Props: water jug at lower frame-right, counter | Gaze: at the ice maker",
+      "action": "She presses the clear lid closed with her left hand.",
+      "end_state": "Pose: standing at center behind the counter, facing the camera | Right hand: resting flat on the counter | Left hand: resting on top of the closed clear lid | Product: frame-right, lid closed, front facing the camera | Props: water jug at lower frame-right, counter | Gaze: at the ice maker",
+      "images_to_attach": [
+        "product_open",
+        "character",
+        "setting",
+        "keyframe:2"
+      ],
+      "keyframe_prompt": "Vertical 9:16 photorealistic photo, medium close-up at eye level. The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails. She stands alone at center behind the counter, facing the camera, her right hand resting flat on the counter and her left hand resting on top of the raised clear lid of the ice maker, looking at the ice maker. Her hands have short unpainted nails. The open ice maker shows metal ice prongs above a removable ice basket under its raised clear lid, shown from the front. The ice maker stands at frame-right with its clear lid raised and its front facing the camera. The water jug is clear glass with a short spout, partly filled with clear water. The water jug stands on the counter at lower frame-right. The counter is white quartz. The counter runs across the lower third of the frame. The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. Use the attached open-product photo exactly as the ice maker. Use the attached character image as the woman. Use the attached setting image as the room. Match the room, lighting, and the woman's hair and clothing in the attached reference keyframe exactly.",
+      "veo_prompt": "Single continuous shot, medium close-up, eye level, static camera. The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails. She is alone. Her hands have short unpainted nails. For the first second, she holds still at center behind the counter, facing the camera, her right hand resting flat on the counter and her left hand resting on top of the raised clear lid of the ice maker, looking at the ice maker. Over the next two seconds, she slowly presses the clear lid closed with her left hand. For the final second, she holds completely still with her left hand on the closed lid, lips gently closed. The open ice maker shows metal ice prongs above a removable ice basket under its raised clear lid, shown from the front. The ice maker stands at frame-right with its clear lid raised and its front facing the camera. The water jug is clear glass with a short spout, partly filled with clear water. The water jug stands on the counter at lower frame-right. The counter is white quartz. The counter runs across the lower third of the frame. The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. Photorealistic vertical 9:16 smartphone video, sharp focus, realistic textures. Audio: Quiet apartment room tone with faint street traffic outside.",
+      "negative_prompt": "subtitles, captions, on-screen text, watermark, talking, speech, singing, music, extra people, cuts, split screen, extra fingers, distorted hands, deformed product, duplicate product, splashes, puddles",
+      "voiceover_vi": "đóng nắp lại,",
+      "overlay_text_vi": "",
+      "sfx_edit": "soft lid click",
+      "needs_real_footage": false,
+      "note": "Ngoài hình: bình nước từ tay trái xuống mặt bàn ở lower frame-right, vì cô đặt bình xuống sau khi rót. Ngoài hình: tay trái từ cầm bình sang đặt trên nắp máy, vì cô chuẩn bị đóng nắp. Ngoài hình: ly trà và muỗng đá ra khỏi khung, vì cỡ cảnh hẹp lại thành medium close-up.",
+      "self_check": {
+        "state_diffs_vs_prev": [
+          "Ngoài hình: bình nước từ tay trái xuống mặt bàn ở lower frame-right, vì cô đặt bình xuống sau khi rót",
+          "Ngoài hình: tay trái từ cầm bình sang đặt trên nắp máy, vì cô chuẩn bị đóng nắp",
+          "Ngoài hình: ly trà và muỗng đá ra khỏi khung, vì cỡ cảnh hẹp lại thành medium close-up"
+        ],
+        "visible_but_not_in_prompt": [],
+        "banned_words_found": [],
+        "veo_word_count": 241,
+        "phases_sum_ok": true,
+        "acting_hand_ok": true,
+        "risky_action_min_6s": "n/a",
+        "feature_visible": []
+      }
+    },
+    {
+      "shot_number": 4,
+      "purpose": "mechanism",
+      "transition": "cut",
+      "lighting": "day",
+      "duration_seconds": 4,
+      "trim_start_seconds": 1,
+      "use_seconds": 3,
+      "shot_size": "close-up",
+      "camera": "slightly high angle, static camera",
+      "script_line": "6 phút sau đá rơi xuống leng keng.",
+      "start_state": "Pose: nobody in frame | Right hand: not in frame | Left hand: not in frame | Product: center, lid closed, a row of six ice cubes hanging on the metal ice prongs, ice basket bare, front facing the camera | Props: six ice cubes on the metal ice prongs, counter under the ice maker | Gaze: none",
+      "action": "The row of six ice cubes drops from the metal ice prongs into the ice basket.",
+      "end_state": "Pose: nobody in frame | Right hand: not in frame | Left hand: not in frame | Product: center, lid closed, metal ice prongs bare, six ice cubes in the ice basket, front facing the camera | Props: six ice cubes in the ice basket, counter under the ice maker | Gaze: none",
+      "images_to_attach": [
+        "product",
+        "product_open",
+        "setting"
+      ],
+      "keyframe_prompt": "Vertical 9:16 photorealistic photo, close-up at a slightly high angle. The ice maker is a matte-black countertop box, kettle-sized, with a clear lid and a small black button panel, shown from the front with the lid closed. The ice maker stands at center with its clear lid closed and its front facing the camera, and through the clear lid a row of six ice cubes hangs on the metal ice prongs above the bare ice basket. The ice cubes are clear and bullet-shaped. The ice cubes hang in a row of six on the metal ice prongs, visible through the clear lid. The counter is white quartz. The counter fills the lower edge of the frame under the ice maker. The background is softly blurred light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. The composition leaves clean empty space in the upper third of the frame. Use the attached product photo exactly as the ice maker. Use the attached open-product photo only for the metal ice prongs and the ice basket seen through the clear lid. Use the attached setting image as the room.",
+      "veo_prompt": "Single continuous shot, close-up, slightly high angle, static camera. The ice maker is a matte-black countertop box, kettle-sized, with a clear lid and a small black button panel, shown from the front with the lid closed. For the first second, everything holds still: the ice maker stands at center with its clear lid closed and its front facing the camera, and through the clear lid a row of six ice cubes hangs on the metal ice prongs above the bare ice basket. Over the next two seconds, the row of six ice cubes drops from the metal ice prongs into the ice basket at natural speed. For the final second, everything holds completely still. The ice cubes are clear and bullet-shaped. The ice cubes hang in a row of six on the metal ice prongs, visible through the clear lid. The counter is white quartz. The counter fills the lower edge of the frame under the ice maker. The background is softly blurred light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. Photorealistic vertical 9:16 smartphone video, sharp focus, realistic textures. The composition leaves clean empty space in the upper third of the frame. Audio: Quiet apartment room tone with faint street traffic outside.",
+      "negative_prompt": "subtitles, captions, on-screen text, watermark, talking, speech, singing, music, extra people, cuts, split screen, extra fingers, distorted hands, deformed product, duplicate product, people, hands",
+      "voiceover_vi": "sáu phút là có đá.",
+      "overlay_text_vi": "6 phút có đá",
+      "sfx_edit": "ice cubes clattering into basket",
+      "needs_real_footage": false,
+      "note": "Ngoài hình: thời gian từ lúc đóng nắp sang sáu phút sau, vì máy cần sáu phút để làm mẻ đá đầu tiên (thể hiện bằng chữ chèn). Ngoài hình: sáu viên đá xuất hiện trên các thanh kim loại, vì máy đã làm đá trong sáu phút. Ngoài hình: người và bình nước ra khỏi khung, vì shot cơ chế quay cận một mình sản phẩm.",
+      "self_check": {
+        "state_diffs_vs_prev": [
+          "Ngoài hình: thời gian từ lúc đóng nắp sang sáu phút sau, vì máy cần sáu phút để làm mẻ đá đầu tiên (thể hiện bằng chữ chèn)",
+          "Ngoài hình: sáu viên đá xuất hiện trên các thanh kim loại, vì máy đã làm đá trong sáu phút",
+          "Ngoài hình: người và bình nước ra khỏi khung, vì shot cơ chế quay cận một mình sản phẩm"
+        ],
+        "visible_but_not_in_prompt": [],
+        "banned_words_found": [],
+        "veo_word_count": 211,
+        "phases_sum_ok": true,
+        "acting_hand_ok": "n/a",
+        "risky_action_min_6s": "n/a",
+        "feature_visible": [
+          "có đá: sáu viên đá rơi vào giỏ (sáu phút ở chữ chèn)"
+        ]
+      }
+    },
+    {
+      "shot_number": 5,
+      "purpose": "demo",
+      "transition": "cut",
+      "lighting": "day",
+      "duration_seconds": 6,
+      "trim_start_seconds": 1,
+      "use_seconds": 3,
+      "shot_size": "medium close-up",
+      "camera": "slightly high angle, static camera",
+      "script_line": "Cô xúc đá vào ly trà tắc.",
+      "start_state": "Pose: standing at center behind the counter, facing the camera | Right hand: holding the ice scoop with six ice cubes just above the tall glass | Left hand: resting flat on the counter | Product: frame-right, lid open, ice basket bare, front facing the camera | Props: tall glass at frame-left, ice scoop with six ice cubes in the right hand, counter | Gaze: at the tall glass",
+      "action": "She tips the ice cubes from the ice scoop into the tall glass.",
+      "end_state": "Pose: standing at center behind the counter, facing the camera | Right hand: holding the empty ice scoop just above the tall glass | Left hand: resting flat on the counter | Product: frame-right, lid open, ice basket bare, front facing the camera | Props: tall glass with six ice cubes at frame-left, empty ice scoop in the right hand, counter | Gaze: at the tall glass",
+      "images_to_attach": [
+        "product_open",
+        "character",
+        "setting",
+        "keyframe:3"
+      ],
+      "keyframe_prompt": "Vertical 9:16 photorealistic photo, medium close-up at a slightly high angle. The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails. She stands alone at center behind the counter, facing the camera, her right hand holding the ice scoop with six ice cubes just above the tall glass and her left hand resting flat on the counter, looking at the tall glass. Her hands have short unpainted nails. The open ice maker shows metal ice prongs above a removable ice basket under its raised clear lid, shown from the front. The ice maker stands at frame-right with its clear lid raised, its ice basket bare and its front facing the camera. The tall glass is two-thirds full of amber kumquat tea with two halved kumquats. The tall glass stands on the counter at frame-left. The ice scoop is white plastic with a short handle. The ice scoop is in her right hand just above the tall glass. The ice cubes are clear and bullet-shaped. The ice cubes sit six in the ice scoop. The counter is white quartz. The counter runs across the lower third of the frame. The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. Use the attached open-product photo exactly as the ice maker. Use the attached character image as the woman. Use the attached setting image as the room. Match the room, lighting, and the woman's hair and clothing in the attached reference keyframe exactly.",
+      "veo_prompt": "Single continuous shot, medium close-up, slightly high angle, static camera. The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails. She is alone. Her hands have short unpainted nails. For the first second, she holds still at center behind the counter, facing the camera, her right hand holding the ice scoop with six ice cubes just above the tall glass and her left hand resting flat on the counter, looking at the tall glass. Over the next three seconds, she slowly tilts the ice scoop with her right hand, tipping the ice cubes into the tall glass at natural speed. For the final two seconds, she holds completely still with the empty ice scoop above the tall glass, lips gently closed. The open ice maker shows metal ice prongs above a removable ice basket under its raised clear lid, shown from the front. The ice maker stands at frame-right with its clear lid raised, its ice basket bare and its front facing the camera. The tall glass is two-thirds full of amber kumquat tea with two halved kumquats. The tall glass stands on the counter at frame-left. The ice scoop is white plastic with a short handle. The ice scoop is in her right hand just above the tall glass. The ice cubes are clear and bullet-shaped. The ice cubes sit six in the ice scoop. The counter is white quartz. The counter runs across the lower third of the frame. The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. Photorealistic vertical 9:16 smartphone video, sharp focus, realistic textures. Audio: Quiet apartment room tone with faint street traffic outside.",
+      "negative_prompt": "subtitles, captions, on-screen text, watermark, talking, speech, singing, music, extra people, cuts, split screen, extra fingers, distorted hands, deformed product, duplicate product, splashes, puddles",
+      "voiceover_vi": "Có ngay ly trà tắc mát lạnh.",
+      "overlay_text_vi": "",
+      "sfx_edit": "ice clinking into glass",
+      "needs_real_footage": false,
+      "note": "Ngoài hình: nắp máy từ đóng sang mở, vì cô mở nắp để lấy đá. Ngoài hình: sáu viên đá từ giỏ đá sang muỗng trong tay phải, vì cô xúc hết mẻ đá bằng muỗng. Ngoài hình: muỗng đá từ mặt bàn lower frame-right sang tay phải, vì cô cầm muỗng lên xúc đá. Ngoài hình: tay trái từ đặt trên nắp sang đặt phẳng trên quầy, vì cô mở nắp rồi đặt tay xuống quầy. Ngoài hình: bình nước từ mặt bàn sang ngoài khung, vì cô cất bình nước. Ly trà ở frame-left (phía tay phải của cô) nên tay phải đổ đá, tay trái nghỉ.",
+      "self_check": {
+        "state_diffs_vs_prev": [
+          "Ngoài hình: nắp máy từ đóng sang mở, vì cô mở nắp để lấy đá",
+          "Ngoài hình: sáu viên đá từ giỏ đá sang muỗng trong tay phải, vì cô xúc hết mẻ đá bằng muỗng",
+          "Ngoài hình: muỗng đá từ mặt bàn lower frame-right sang tay phải, vì cô cầm muỗng lên xúc đá",
+          "Ngoài hình: tay trái từ đặt trên nắp sang đặt phẳng trên quầy, vì cô mở nắp rồi đặt tay xuống quầy",
+          "Ngoài hình: bình nước từ mặt bàn sang ngoài khung, vì cô cất bình nước"
+        ],
+        "visible_but_not_in_prompt": [],
+        "banned_words_found": [],
+        "veo_word_count": 296,
+        "phases_sum_ok": true,
+        "acting_hand_ok": true,
+        "risky_action_min_6s": true,
+        "feature_visible": []
+      }
+    },
+    {
+      "shot_number": 6,
+      "purpose": "cta",
+      "transition": "cut",
+      "lighting": "day",
+      "duration_seconds": 6,
+      "trim_start_seconds": 1,
+      "use_seconds": 4,
+      "shot_size": "medium shot",
+      "camera": "eye level, static camera",
+      "script_line": "Cô uống một ngụm sảng khoái. Chốt: Nhỏ gọn, 6 phút có đá, mua ngay kẻo hết!",
+      "start_state": "Pose: standing at center behind the counter, facing the camera, soft smile | Right hand: holding the tall glass with six ice cubes as the tall glass rests on the counter at frame-left | Left hand: resting flat on the counter | Product: frame-right, lid closed, ice basket bare, fully visible, front facing the camera | Props: tall glass with six ice cubes at frame-left, counter | Gaze: at the tall glass",
+      "action": "She lifts the tall glass to chest height.",
+      "end_state": "Pose: standing at center behind the counter, facing the camera, soft smile | Right hand: holding the tall glass with six ice cubes at chest height | Left hand: resting flat on the counter | Product: frame-right, lid closed, ice basket bare, fully visible, front facing the camera | Props: tall glass with six ice cubes in the right hand, counter | Gaze: at the tall glass",
+      "images_to_attach": [
+        "product",
+        "character",
+        "setting",
+        "last_frame:5"
+      ],
+      "keyframe_prompt": "Vertical 9:16 photorealistic photo, medium shot at eye level. The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails. She stands alone at center behind the counter, facing the camera with a soft smile, her right hand around the tall glass of iced kumquat tea resting on the counter at frame-left and her left hand resting flat on the counter, looking at the tall glass. Her hands have short unpainted nails. Her head sits below the upper third of the frame. The ice maker is a matte-black countertop box, kettle-sized, with a clear lid and a small black button panel, shown from the front with the lid closed. The ice maker stands at frame-right, fully visible, its front facing the camera, about a third of the frame width. The tall glass is two-thirds full of amber kumquat tea with two halved kumquats. The tall glass stands on the counter at frame-left. The ice cubes are clear and bullet-shaped. The ice cubes float in the kumquat tea inside the tall glass. The counter is white quartz. The counter runs across the lower third of the frame. The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. The composition leaves clean empty space in the upper third of the frame. Use the attached product photo exactly as the ice maker. Use the attached character image as the woman. Use the attached setting image as the room. Match the room, lighting, and the woman's hair and clothing in the attached reference keyframe exactly.",
+      "veo_prompt": "Single continuous shot, medium shot, eye level, static camera. The woman is Vietnamese, in her mid-twenties, with shoulder-length straight black hair, a sleeveless mint-green cotton top and short unpainted nails. She is alone. Her hands have short unpainted nails. For the first second, she holds still at center behind the counter, facing the camera with a soft smile, her right hand around the tall glass of iced kumquat tea resting on the counter at frame-left and her left hand resting flat on the counter, looking at the tall glass. Over the next three seconds, she slowly lifts the tall glass to chest height with her right hand. For the final two seconds, she holds completely still with a soft smile, lips gently closed. Her head sits below the upper third of the frame. The ice maker is a matte-black countertop box, kettle-sized, with a clear lid and a small black button panel, shown from the front with the lid closed. The ice maker stands at frame-right, fully visible, its front facing the camera, about a third of the frame width. The tall glass is two-thirds full of amber kumquat tea with two halved kumquats. The tall glass stands on the counter at frame-left. The ice cubes are clear and bullet-shaped. The ice cubes float in the kumquat tea inside the tall glass. The counter is white quartz. The counter runs across the lower third of the frame. The setting is a bright Vietnamese apartment kitchen with light-wood cabinets and white walls. Soft late-morning daylight falls evenly from a window behind the camera. Photorealistic vertical 9:16 smartphone video, sharp focus, realistic textures. The composition leaves clean empty space in the upper third of the frame. Audio: Quiet apartment room tone with faint street traffic outside.",
+      "negative_prompt": "subtitles, captions, on-screen text, watermark, talking, speech, singing, music, extra people, cuts, split screen, extra fingers, distorted hands, deformed product, duplicate product, drinking, puddles",
+      "voiceover_vi": "Nhỏ gọn, mua ngay kẻo hết!",
+      "overlay_text_vi": "Mua ngay kẻo hết!",
+      "sfx_edit": "",
+      "needs_real_footage": false,
+      "note": "Ngoài hình: nắp máy từ mở sang đóng, vì cô đóng nắp giữ lạnh. Ngoài hình: muỗng đá từ tay phải sang ngoài khung, vì cô cất muỗng. Ngoài hình: tay phải từ cầm muỗng sang cầm ly trà, vì cô cầm lấy ly. Bỏ động tác uống (uống cận dễ lỗi); sự sảng khoái thể hiện qua nụ cười, ly trà đá và lời đọc. Đính kèm last_frame:5 vì cần trạng thái sau khi đá đã vào ly.",
+      "self_check": {
+        "state_diffs_vs_prev": [
+          "Ngoài hình: nắp máy từ mở sang đóng, vì cô đóng nắp giữ lạnh",
+          "Ngoài hình: muỗng đá từ tay phải sang ngoài khung, vì cô cất muỗng",
+          "Ngoài hình: tay phải từ cầm muỗng sang cầm ly trà, vì cô cầm lấy ly"
+        ],
+        "visible_but_not_in_prompt": [],
+        "banned_words_found": [],
+        "veo_word_count": 294,
+        "phases_sum_ok": true,
+        "acting_hand_ok": true,
+        "risky_action_min_6s": true,
+        "feature_visible": [
+          "nhỏ gọn: máy đặt trọn trên quầy cạnh người, rộng khoảng một phần ba chiều rộng khung"
+        ]
+      }
+    }
+  ]
+}
